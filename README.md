@@ -128,3 +128,5 @@ Screenshots of the final output are included for reference and easier evaluation
 
 This project is created **for educational purposes only**.  
 All design inspiration and visual references belong to **Mintlify**.
+
+![alt text](sanghita-seal.github.io_Mintlify-Dashboard_.png)
